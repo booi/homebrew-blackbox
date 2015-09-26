@@ -1,8 +1,8 @@
 class Blackbox < Formula
   homepage "http://the-cloud-book.com/"
-  url "https://github.com/StackExchange/blackbox/archive/3f9d2a3.tar.gz"
-  version "1.2-dev"
-  sha1 "ef70a5dc990496021b78fe6bf3a05b51376383a2"
+  url "https://github.com/StackExchange/blackbox/archive/v1.20150730.tar.gz"
+  version "1.20150730"
+  sha256 "a28237e8839d000273d0fe0ba8f9701cab66a3b942787c5c8e8d329912564ae4"
   revision 1
 
   depends_on "gnupg" 
